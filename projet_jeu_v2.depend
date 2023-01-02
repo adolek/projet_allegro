@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1556048336 source:d:\code blocks\programmes\projet info s2\projet_jeu_v2\main.c
+	<allegro.h>
+	<stdio.h>
+	<time.h>
+	"structure.h"
+
+1556116751 d:\code blocks\programmes\projet info s2\projet_jeu_v2\structure.h
+	<allegro.h>
+
+1556119787 source:d:\code blocks\programmes\projet info s2\projet_jeu_v2\sous_prog.c
+	<allegro.h>
+	"structure.h"
+
+1556119787 source:d:\code blocks\programmes\projet info s2\projet_jeu_v2\niveau1.c
+	<allegro.h>
+	<stdio.h>
+	<time.h>
+	"structure.h"
+
+1556061961 source:d:\code blocks\programmes\projet info s2\projet_jeu_v2\niveau2.c
+	<allegro.h>
+	<stdio.h>
+	<time.h>
+	"structure.h"
+
+1556061961 source:d:\code blocks\programmes\projet info s2\projet_jeu_v2\niveau3.c
+	<allegro.h>
+	<stdio.h>
+	<time.h>
+	"structure.h"
+
+1556044483 source:d:\code blocks\programmes\projet info s2\projet_jeu_v2\ennemis.c
+	<allegro.h>
+	"structure.h"
+
+1556048336 source:d:\code blocks\programmes\projet info s2\projet_jeu_v3\main.c
+	<allegro.h>
+	<stdio.h>
+	<time.h>
+	"structure.h"
+
+1556129450 d:\code blocks\programmes\projet info s2\projet_jeu_v3\structure.h
+	<allegro.h>
+
+1556123844 source:d:\code blocks\programmes\projet info s2\projet_jeu_v3\niveau2.c
+	<allegro.h>
+	<stdio.h>
+	<time.h>
+	"structure.h"
+
+1556123844 source:d:\code blocks\programmes\projet info s2\projet_jeu_v3\niveau3.c
+	<allegro.h>
+	<stdio.h>
+	<time.h>
+	"structure.h"
+
+1556126385 source:d:\code blocks\programmes\projet info s2\projet_jeu_v3\sous_prog.c
+	<allegro.h>
+	"structure.h"
+
+1556139051 source:d:\code blocks\programmes\projet info s2\projet_jeu_v3\ennemis.c
+	<allegro.h>
+	"structure.h"
+
+1556139051 source:d:\code blocks\programmes\projet info s2\projet_jeu_v3\niveau1.c
+	<allegro.h>
+	<stdio.h>
+	<time.h>
+	"structure.h"
+
+1556129663 source:d:\code blocks\programmes\projet info s2\projet_jeu_v3\acteurs.c
+	<allegro.h>
+	"structure.h"
+

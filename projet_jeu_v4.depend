@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1556218268 source:d:\code blocks\programmes\projet info s2\projet_jeu_v4\acteurs.c
+	<allegro.h>
+	"structure.h"
+
+1556219355 d:\code blocks\programmes\projet info s2\projet_jeu_v4\structure.h
+	<allegro.h>
+
+1556209572 source:d:\code blocks\programmes\projet info s2\projet_jeu_v4\ennemis.c
+	<allegro.h>
+	"structure.h"
+
+1556208600 source:d:\code blocks\programmes\projet info s2\projet_jeu_v4\main.c
+	<allegro.h>
+	<stdio.h>
+	<time.h>
+	"structure.h"
+
+1556215058 source:d:\code blocks\programmes\projet info s2\projet_jeu_v4\niveau1.c
+	<allegro.h>
+	<stdio.h>
+	<time.h>
+	"structure.h"
+
+1556216833 source:d:\code blocks\programmes\projet info s2\projet_jeu_v4\niveau2.c
+	<allegro.h>
+	<stdio.h>
+	<time.h>
+	"structure.h"
+
+1556216911 source:d:\code blocks\programmes\projet info s2\projet_jeu_v4\niveau3.c
+	<allegro.h>
+	<stdio.h>
+	<time.h>
+	"structure.h"
+
+1556218268 source:d:\code blocks\programmes\projet info s2\projet_jeu_v4\sous_prog.c
+	<allegro.h>
+	"structure.h"
+
+1556219355 source:d:\code blocks\programmes\projet info s2\projet_jeu_v4\boss.c
+	<allegro.h>
+	<stdio.h>
+	<time.h>
+	"structure.h"
+
+1556219382 source:c:\users\adrien oleksiak\desktop\code projet allegro\td11_oleksiak_bastit_laxenaire\projet_jeu_v4\acteurs.c
+	<allegro.h>
+	"structure.h"
+
+1556219355 c:\users\adrien oleksiak\desktop\code projet allegro\td11_oleksiak_bastit_laxenaire\projet_jeu_v4\structure.h
+	<allegro.h>
+
+1556209572 source:c:\users\adrien oleksiak\desktop\code projet allegro\td11_oleksiak_bastit_laxenaire\projet_jeu_v4\ennemis.c
+	<allegro.h>
+	"structure.h"
+
+1556208600 source:c:\users\adrien oleksiak\desktop\code projet allegro\td11_oleksiak_bastit_laxenaire\projet_jeu_v4\main.c
+	<allegro.h>
+	<stdio.h>
+	<time.h>
+	"structure.h"
+
+1556215058 source:c:\users\adrien oleksiak\desktop\code projet allegro\td11_oleksiak_bastit_laxenaire\projet_jeu_v4\niveau1.c
+	<allegro.h>
+	<stdio.h>
+	<time.h>
+	"structure.h"
+
+1556216833 source:c:\users\adrien oleksiak\desktop\code projet allegro\td11_oleksiak_bastit_laxenaire\projet_jeu_v4\niveau2.c
+	<allegro.h>
+	<stdio.h>
+	<time.h>
+	"structure.h"
+
+1556216911 source:c:\users\adrien oleksiak\desktop\code projet allegro\td11_oleksiak_bastit_laxenaire\projet_jeu_v4\niveau3.c
+	<allegro.h>
+	<stdio.h>
+	<time.h>
+	"structure.h"
+
+1556218268 source:c:\users\adrien oleksiak\desktop\code projet allegro\td11_oleksiak_bastit_laxenaire\projet_jeu_v4\sous_prog.c
+	<allegro.h>
+	"structure.h"
+
+1556219747 source:c:\users\adrien oleksiak\desktop\code projet allegro\td11_oleksiak_bastit_laxenaire\projet_jeu_v4\boss.c
+	<allegro.h>
+	<stdio.h>
+	<time.h>
+	"structure.h"
+
